@@ -1,6 +1,6 @@
 {
-  "name": "Data-miner.GitHub.io",
+  "name": "blog",
   "tagline": "数据挖掘机",
-  "body": "# data-miner.github.io\r\n数据挖掘机\r\n",
+  "body": "# 让机器读懂世界\r\n## 一、背景\r\n\r\n## 二、语言的表示\r\n\r\n## 三、语言模型\r\n\r\n## 四、神经网络",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
